@@ -17,4 +17,4 @@ A **simple console-based user authentication system** in C++ that allows users t
 ## 💻 Login/Registration Flow (ASCII Diagram)
 
 ### 6.	Screenshots / Demos
-Example: ![Dashboard Preview](https://github.com/sayan-ghosh8124/programing_cpp_login_and_registration_system_/blob/main/registration%20system%20picture.png)
+ ![Dashboard Preview](https://github.com/sayan-ghosh8124/programing_cpp_login_and_registration_system_/blob/main/registration%20system%20picture.png)
